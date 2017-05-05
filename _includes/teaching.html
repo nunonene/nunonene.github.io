@@ -1,0 +1,17 @@
+<section class="section publications-section">
+                <h2 class="section-title"><i class="fa fa-archive"></i>Talks</h2>
+<div class= "item">
+
+    {% assign count = site.data.talks.size %}
+ {% for pub in site.data.talks %}
+            
+                        <p>
+                            {{pub.year}}<br>
+                           <b>{{ pub.title}}.</b>
+                        </p>
+                
+    {% endfor %}
+
+</div><!--//item-->
+                  
+                   </section><!--//section-->

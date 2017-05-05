@@ -4,15 +4,6 @@
 
     {% assign count = site.data.publications.size %}
 
-    {% for pub in site.data.publications %}
-        {% if year != pub.year %}
-            {% assign year = pub.year %}
-            {% if pub != site.data.publications.first %}
-                <div class = "div-bar"></div>
-            {% endif %}
-            <br><h2>{{pub.year}}</h2> <br>
-
-        {% endif %}
             <div class = "pub-entry">
                 <div class = "wrapper" >
                     <div class = "right-col">

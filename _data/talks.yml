@@ -1,58 +1,40 @@
-<div class="education-container container-block">
-<h2 class="container-block-title">Talks</h2>
-<div class="item">
-    <h4 class="degree">Inference of fitness landscapes from evolutionary time-series in the limit of large finite populations.</h4>
-    <h5 class="meta"> Evolution Seminar series. Department of Genetics, University of Cambridge</h5>
-    <div class="time">Feb 2017</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">Drift model selection in experimental evolution time-series analysis.</h4>
-    <h5 class="meta"> Evolution Seminar series. Department of Genetics, University of Cambridge</h5>
-    <div class="time">March 2015</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">Time-series data in evolve and re-sequencing experimental evolution: identifying targets of selection with additional LD prior information. </h4>
-    <h5 class="meta">Evolution Seminar series. Department of Genetics, University of Cambridge</h5>
-    <div class="time">December 2014</div>
-</div><!--//item-->
-  <div class="item">
-    <h4 class="degree">Stress induced co-expression networks comparison: a multi-scale graph partitioning perspective.</h4>
-    <h5 class="meta">University of Aberdeen, Institute of Medical Sciences</h5>
-    <div class="time">August 2013</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">Combinatorial stress response in S. cerevisiae, C. glabrata and C.albicans: specific and global changes on the transcriptional landscape.</h4>
-    <h5 class="meta">University of Exeter, Biosciences</h5>
-    <div class="time">November 2012</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">The importance of critical parameter sweeping speed in transiently asymmetric systems.</h4>
-    <h5 class="meta">Biomathematics Seminar, Imperial College London</h5>
-    <div class="time">February 2012</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">Speed-dependent cellular decision-making: attractor selectivity in bifurcation dynamics.</h4>
-    <h5 class="meta">Biozentrum, Basel</h5>
-    <div class="time">October 2011</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">Decision making in non-equilibrium gene regulatory systems with external stimulation.</h4>
-    <h5 class="meta"> Mathematics Postdoctoral Research Workshop, Imperial College London</h5>
-    <div class="time">March 2012</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">Dynamic bifurcations in noisy systems with time-dependent asymmetry. </h4>
-    <h5 class="meta">Department of Life Sciences, Imperial College London</h5>
-    <div class="time">October 2011</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">Cell fate decision in the paradigmatic stochastic genetic switch. UCL Computational Biology Symposium. </h4>
-    <h5 class="meta">UCL Computational Biology Symposium</h5>
-    <div class="time">February 2011</div>
-</div><!--//item-->
-    <div class="item">
-    <h4 class="degree">Emergent intracellular network states and cell fate decision: a dynamically integrated study of the epidermal growth factor receptor network with an agent based model. </h4>
-    <h5 class="meta">ALife XI Conference</h5>
-    <div class="time">August 2008</div>
-</div><!--//item-->
-</div><!--//education-container-->
+-title: "Inference of fitness landscapes from evolutionary time-series in the limit of large finite populations"
+ location: "Evolution Seminar series. Department of Genetics, University of Cambridge"
+ year: Feb 2017
+ 
+-title: "Drift model selection in experimental evolution time-series analysis"
+ location: "Evolution Seminar series. Department of Genetics, University of Cambridge"
+ year: March 2015
+
+-title: "Time-series data in evolve and re-sequencing experimental evolution: identifying targets of selection with additional LD prior information"
+  location: "Evolution Seminar series. Department of Genetics, University of Cambridge"
+  year: December 2014
+  
+-title: "Stress induced co-expression networks comparison: a multi-scale graph partitioning perspective"
+    location: "University of Aberdeen, Institute of Medical Sciences"
+    year: August 2013
+    
+-title: "Combinatorial stress response in S. cerevisiae, C. glabrata and C.albicans: specific and global changes on the transcriptional landscape"
+   location:"University of Exeter, Biosciences"
+   year: November 2012
+
+-title: "The importance of critical parameter sweeping speed in transiently asymmetric systems"
+     location: "Biomathematics Seminar, Imperial College London"
+    year: February 2012
+-title: "Speed-dependent cellular decision-making: attractor selectivity in bifurcation dynamics"
+    location:"Biozentrum, Basel"
+    year: October 2011
+-title: "Decision making in non-equilibrium gene regulatory systems with external stimulation"
+    location: "Mathematics Postdoctoral Research Workshop, Imperial College London"
+    year: March 2012
+    
+-title: "Dynamic bifurcations in noisy systems with time-dependent asymmetry"
+    location: "Department of Life Sciences, Imperial College London"
+    year: October 2011
+-title: "Cell fate decision in the paradigmatic stochastic genetic switch. UCL Computational Biology Symposium"
+    location:"UCL Computational Biology Symposium"
+    year:February 2011
+    
+-title: "Emergent intracellular network states and cell fate decision: a dynamically integrated study of the epidermal growth factor receptor network with an agent based model"
+    location: "ALife XI Conference"
+    year: August 2008

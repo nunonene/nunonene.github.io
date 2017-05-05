@@ -1,5 +1,36 @@
 - title: "Inference of multi-gene influenza dynamics in a human host."
-  link: "http://science.sciencemag.org/content/356/6335/eaah4573"
-  author: "Lumby, C.K., Nene, N.R., Illingworth, C.R."
+  author: "Lumby, C.K., Nene, N.R., Illingworth, C.J.R."
   journal: (in preparation)
   
+- title: "The effects of correlated noise in information processing near critical transitions."
+  author: "Nene, N.R., Zaikin, A."
+  journal: (in preparation)
+  
+- title: "Inference of fitness landscapes from evolutionary time-series in the limit of large finite populations."
+  author: "Nene, N.R., Illingworth, C.J.R."
+  journal: (in preparation)
+  
+- title: "Multi-resolution analysis of stress-induced gene co-expression networks: a graph flow-based approach."
+  author: "Nene, N.R."
+  journal: https://arxiv.org/abs/1703.02872
+  year: 2017
+  
+- title: "Evaluating genetic drift in time-series evolutionary analysis."
+  author: "Nene, N.R., Mustonen,V., Illingworth, C.J.R."
+  journal: https://arxiv.org/abs/1611.06152
+  year: 2016
+  
+- title: "Decision making in noisy bistable systems with time-dependent asymmetry."
+  author: "Nene, N.R., Zaikin, A."
+  journal: PHYSICAL REVIEW E 87, 012715
+  year: 2013
+  
+- title: "Interplay between path and speed in decision making by high-dimensional stochastic gene regulatory networks."
+  author: "Nene, N. R., Zaikin, A."
+  journal: PLoS ONE 7(7): e40085
+  year: 2012
+  
+- title: "Noise and oscillations in biological systems: multidisciplinary approach between experimental biology, theoretical modelling and synthetic biology."
+  author: "E. Ullner, S. Ares, L.G. Morelli, A.C. Oates, F. Julicher, E. Nicola , R. Heussen, D. Whitmore, K. Blyuss, M. Fryett, A. Zakharova, A. Koseska, N.R. Nene , and A. Zaikin."
+  journal: Int. J. Mod. Phys. B 26, 1246009
+  year: 2012

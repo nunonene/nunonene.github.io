@@ -4,18 +4,13 @@
 
     {% assign count = site.data.publications.size %}
  {% for pub in site.data.publications %}
-            <div class = "pub-entry">
-                <div class = "wrapper" >
-                    <div class = "right-col">
+            
                         <p>
                             {{ pub.author }} <br>
                             <a href= "{{ pub.link }}" >{{ pub.title}}</a> <br>
                             <b>{{ pub.journal}}. </b> {{pub.year}}
                         </p>
-                    </div>
-                    <img class= "pub-pic" src="{{pub.figure | prepend: site.publication_photos}} ">
-                </div>
-            </div>
+                
     {% endfor %}
 
 </div><!--//item-->

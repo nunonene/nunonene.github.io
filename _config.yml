@@ -13,7 +13,7 @@ baseurl: '/nunonene.github.io' #change it according to your repository name
 
 #Profile information
 name: Nuno Rocha Nene, Ph.D.
-tagline: 
+tagline: Applied Mathematics and Data Science
 pic: NRNimage.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links

@@ -6,8 +6,9 @@
  {% for pub in site.data.publications %}
             
                         <p>
-                            {{ pub.author }}  
-                            <b>{{ pub.title}}</b> {{ pub.journal}}.  {{pub.year}}
+                            {{pub.year}}<br>
+                            {{ pub.author }}
+                            <b>{{ pub.title}}</b> {{ pub.journal}}.  
                         </p>
                 
     {% endfor %}

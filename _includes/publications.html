@@ -1,12 +1,9 @@
 <section class="section publications-section">
                 <h2 class="section-title"><i class="fa fa-archive"></i>Publications</h2>
-                <div class="intro">
-                   </div><!--//intro-->
 <div class= "item">
 
     {% assign count = site.data.publications.size %}
 
-    {% assign year = "0000" %}
     {% for pub in site.data.publications %}
         {% if year != pub.year %}
             {% assign year = pub.year %}

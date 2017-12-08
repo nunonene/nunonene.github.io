@@ -12,10 +12,11 @@
   journal: (in preparation)
   year: 2017
   
-- title: "A delay-deterministic model for inferring fitness effects from time-resolved genome sequence data"
+- title: "A delay-deterministic model for inferring fitness effects from time-resolved genome sequence data."
   author: "Nene, N.R., Dunham, A.S., Illingworth, C.J.R."
-  journal: https://www.biorxiv.org/content/early/2017/12/07/229963. (under review)
+  journal: https://www.biorxiv.org/content/early/2017/12/07/229963. (under review).
   year: 2017
+  link: https://www.biorxiv.org/content/early/2017/12/07/229963
   
 - title: "Multi-resolution analysis of stress-induced gene co-expression networks: a graph flow-based approach."
   author: "Nene, N.R."

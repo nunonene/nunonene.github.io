@@ -14,11 +14,11 @@
   year: 2018
   link: http://arxiv.org/abs/1802.01627
   
-- title: "A delay-deterministic model for inferring fitness effects from time-resolved genome sequence data."
+- title: "Inferring fitness effects from time-resolved sequence data with a delay-deterministic model"
   author: "Nene, N.R., Dunham, A.S., Illingworth, C.J.R."
   journal: GENETICS
   year: 2017
-  link: https: http://www.genetics.org/content/early/2018/03/02/genetics.118.300790
+  link: https: http://www.genetics.org/content/early/2018/03/02/genetics.118.300790.long
   
 - title: "Multi-resolution analysis of stress-induced gene co-expression networks: a graph flow-based approach."
   author: "Nene, N.R."

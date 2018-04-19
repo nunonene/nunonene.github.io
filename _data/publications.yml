@@ -3,10 +3,11 @@
   journal: (in preparation)
   year: 2018
   
-- title: "Inference of multi-gene influenza dynamics in a human host."
+- title: "A novel framework for inferring parameters of transmission from viral sequence data."
   author: "Lumby, C.K., Nene, N.R., Illingworth, C.J.R."
-  journal: (in preparation)
+  journal: https://www.biorxiv.org/content/early/2018/04/18/302331 (under review)
   year: 2018
+  link: https://www.biorxiv.org/content/early/2018/04/18/302331
   
 - title: "Sensitivity of asymmetric rate-dependent critical systems to initial conditions."
   author: "Nene, N.R., Rivington, J., Zaikin, A."

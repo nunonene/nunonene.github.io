@@ -1,3 +1,15 @@
+-title:"Multi-scale analysis of co-expression networks"
+ journal:"Volga conference, System biology and age-related diseases. Nizhny Novgorod, Russia"
+ year: Jul 2018
+
+-title:"Complex cellular information processing in simple genetic circuits"
+ journal:"Showcase Programme Conference. UCL Centre for Synthetic Biology."
+ year: Jun 2018
+
+- title: "Graph partitioning methods in the analysis of time-series in systems and evolutionary biology"
+  journal:"Adding value through quantitative methods seminar. AstraZeneca UK."
+  year: May 2018
+
 - title: "Inference of fitness landscapes from evolutionary time-series in the limit of large finite populations"
   journal: "Evolution Seminar series. Department of Genetics, University of Cambridge"
   year: Feb 2017
@@ -6,7 +18,7 @@
   journal: "Francis Crick Institute"
   year: Dec 2016
   
-- title: "Multi-scale analysis of co-expression networks"
+- title: "Analysis of evolutionary time-series with jump-diffusion HMM models"
   journal: "Department of Statistics, University College London"
   year: Nov 2016
  

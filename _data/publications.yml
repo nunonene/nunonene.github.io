@@ -1,17 +1,47 @@
 
 - title: "Stochastic control of attractor selection from partially collected time-series near critical transitions."
   author: "Nene, N.R., Zaikin, A."
-  journal: (in preparation)
-  year: 2019
+  journal: (submitted)
+  year: 2020
 
 - title: "The effects of correlated noise on information processing near critical transitions."
   author: "Nene, N.R., Zaikin, A."
-  journal: (in preparation)
-  year: 2019
-
+  journal: (submitted)
+  year: 2020
+  
+- title: "Comparison of Bayesian, network-based and deep learning methods for early diagnosis of cancer from biomarker longitudinal data."
+  author: "Nene, N. R., Zaikin, A., Timms, J.F."
+  journal: (submitted)
+  year: 2020
+  
+- title: "Geometry improves performance of supervised learning methods: the case of parenclitic network indices for predicting cancer from biomarker longitudinal data."
+  author: "Nene, N. R., Zaikin, A., Timms, J.F."
+  journal: (submitted)
+  year: 2020
+  
+- title: "Parenclitic network analysis of longitudinal Ovarian Cancer biomarker data."
+  author: "Nazarenko, T., Nene, N. R., Blyuss, O., Zaikin, A., Timms, J.F."
+  journal: (submitted)
+  year: 2020
+  
+- title: "A recurrent neural network framework for early detection of Ovarian Cancer from longitudinal samples."
+  author: "Nene, N. R., Zaikin, A., Timms, J."
+  journal: (submitted)
+  year: 2020
+  
+- title: "Early detection of pancreatic ductal adenocarcinomas with an ensemble learning model based on a panel of protein serum biomarkers."
+  author: "Nene, N. R., Zaikin, A., Timms, J."
+  journal: (submitted)
+  year: 2020
+ 
+- title: "DNA methylation signatures to predict the cervicovaginal microbiome status."
+  author: "Nene, N. R., Barrett, J., Jones, A., Evans, I., Reisel, D., Timms, J.F., Paprotka, T., Leimbach, A., Franchi, D., Colombo, N. , Björge, L. , Zikan, M. , Cibula, D. , Widschwendter, M."
+  journal: Clinical Epigenetics (accepted).
+  year: 2020
+  
 - title: "Association between the cervicovaginal microbiome, BRCA1 mutation status, and risk of ovarian cancer: a case-control study"
   author: "Nene, N.R.*, Reisel, D.*, Leimbach, A.*, Franchi, D., Jones, A., Evans, I., Knapp, S., Ryan, A., Ghazali, S., Timms, J.F., Paprotka, T., Bjorge, L., Zikan, M., Cibula, D., Colombo, N., Widschwendter, M."
-  journal: Lancet Oncology, 2019, http://dx.doi.org/10.1016/ S1470-2045(19)30340-7.
+  journal: Lancet Oncology, 20(8):1171-1182, http://dx.doi.org/10.1016/ S1470-2045(19)30340-7.
   year: 2019
   link: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(19)30340-7/fulltext
   
